@@ -1,11 +1,11 @@
 # Site settings
-author: Taishawn King
-title: 
+author: Taishawn T King
+title: Web Dev and Beyond
 header-img: img/home-bg.png
 email: taishawnking1@yahoo.com
-copyright_name: Taishawn King
+copyright_name: Taishawn T King
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Developer Dreams
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Taishawnk
